@@ -1,5 +1,9 @@
 ## Getting started [Robotics 123](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html)
 
+
+### [Hardware Compoments](https://docs.wpilib.org/en/stable/docs/controls-overviews/control-system-hardware.html#)
+  - ![image](https://docs.wpilib.org/en/stable/_images/frc-control-system-layout-rev.svg)
+
 ### [Software Components](https://docs.wpilib.org/en/stable/docs/controls-overviews/control-system-software.html#)
 
 #### Basic Software Components
@@ -9,7 +13,7 @@
   - [FDC Driver Station](https://docs.wpilib.org/en/stable/docs/controls-overviews/control-system-software.html#frc-driver-station-powered-by-ni-labview-windows-only) in LabVIEW
 
 
-#### Hardware Compoments
+
 
  
 ### Monitoring
